@@ -1,3 +1,7 @@
+#Steam Webscrape 
+#Prints Steam's current Top Sales
+#By: Kai Ramirez
+
 import requests
 from bs4 import BeautifulSoup
 
